@@ -2,9 +2,9 @@
 
 ## 🚀 About Me 
 
-I'm a *Data Analyst fresher* passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.  
+I’m a Data Analyst fresher passionate about turning raw data into meaningful insights. I enjoy working with messy datasets, cleaning and analyzing them to uncover patterns that support data-driven decision-making.
 
-My focus is on building dashboards, performing data analysis, and creating data-driven solutions for better decision-making.  
+I focus on building interactive dashboards, performing exploratory data analysis (EDA), and delivering clear, actionable insights through visualizations.
 
 ### 💡 Skills & Experience:
 - Python (NumPy, Pandas, Matplotlib, Seaborn)  
