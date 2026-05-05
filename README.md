@@ -1,4 +1,4 @@
-## Hi there, I'm Priyanka Kadam 👋
+## Hi there, I'm Sakshi shinde 👋
 
 ## 🚀 About Me 
 
@@ -15,14 +15,14 @@ My focus is on building dashboards, performing data analysis, and creating data-
 ---
 
 ## 🏆 Portfolio Website  
-👉 https://priyankakadam2314-png.github.io/
+👉 [https://github.com/shinde-sakshi01]
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![Github](https://img.shields.io/badge/Github-%23E4405F.svg?logo=Github&logoColor=white)](https://github.com/priyankakadam2314-png)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyankakadam2314@gmail.com)
+[![Github](https://img.shields.io/badge/Github-%23E4405F.svg?logo=Github&logoColor=white)](https://github.com/shinde-sakshi01)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshishinde813@gmail.com)
 ---
 
 ## 🛠️ Technical Skillset
