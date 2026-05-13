@@ -1,4 +1,4 @@
-## Hi there, I'm Sakshi shinde 👋
+## Hi there, I'm Sakshi shinde 
 
 ## 🚀 About Me 
 
@@ -16,6 +16,8 @@ I focus on building interactive dashboards, performing exploratory data analysis
 
 ## 🏆 Portfolio Website  
 👉 [https://github.com/shinde-sakshi01]
+🌐 [https://my-portfolio-1-henna.vercel.app/]
+
 
 ---
 
