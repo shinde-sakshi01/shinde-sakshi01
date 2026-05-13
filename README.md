@@ -15,7 +15,6 @@ I focus on building interactive dashboards, performing exploratory data analysis
 ---
 
 ## 🏆 Portfolio Website  
-👉 [https://github.com/shinde-sakshi01]
 🌐 [https://my-portfolio-1-henna.vercel.app/]
 
 
